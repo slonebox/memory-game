@@ -1,6 +1,42 @@
 [
     {
         "id": 1,
-        "image": "memory-game/public/images/fiona1.PNG"
+        "image": "https://github.com/slonebox/memory-game/blob/master/memory-game/public/images/fiona1.PNG?raw=true",
+        "alt": "Scowling Fiona"
+    },
+    {
+        "id": 2,
+        "image": "https://github.com/slonebox/memory-game/blob/master/memory-game/public/images/fiona2.PNG?raw=true",
+        "alt": "Fiona on Inflatable"
+    },
+    {
+        "id": 3,
+        "image": "https://github.com/slonebox/memory-game/blob/master/memory-game/public/images/fiona3.PNG?raw=true",
+        "alt": "Silly Fiona"
+    },
+    {
+        "id": 4,
+        "image": "https://github.com/slonebox/memory-game/blob/master/memory-game/public/images/fiona4.PNG?raw=true",
+        "alt": "Fiona Agape"
+    },
+    {
+        "id": 5,
+        "image": "https://github.com/slonebox/memory-game/blob/master/memory-game/public/images/fiona5.PNG?raw=true",
+        "alt": "Sleepy Fiona"
+    },
+    {
+        "id": 6,
+        "image": "https://github.com/slonebox/memory-game/blob/master/memory-game/public/images/fiona6.PNG?raw=true",
+        "alt": "Drinking Fiona"
+    },
+    {
+        "id": 7,
+        "image": "https://github.com/slonebox/memory-game/blob/master/memory-game/public/images/fiona7.PNG?raw=true",
+        "alt": "Bubbly Swimming Fiona"
+    },
+    {
+        "id": 8,
+        "image": "https://github.com/slonebox/memory-game/blob/master/memory-game/public/images/fiona8.PNG?raw=true",
+        "alt": "Submerged Fiona"
     }
 ]
