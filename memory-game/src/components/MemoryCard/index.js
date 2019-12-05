@@ -5,7 +5,7 @@ function MemoryCard(props) {
     return (
         <div className="card">
             <div className="img-container">
-                <img alt={props.alt} src={props.image} />
+                <img alt={props.alt} src={props.image}/>
             </div>
         </div>
     )

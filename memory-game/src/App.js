@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import Container from './components/Container';
 import Jumbotron from './components/Jumbotron';
 import MemoryCard from './components/MemoryCard';
-import fionas from './fionas.json';
+import fionas from '../src/fionas.json';
 
 class App extends Component {
 
@@ -10,8 +10,12 @@ class App extends Component {
   render() {
     return (
       <Container>
-      <Jumbotron></Jumbotron>
-      <MemoryCard></MemoryCard>
+      <Jumbotron/>
+      <MemoryCard
+        id={fionas[0].id}
+        image={fionas[0].image}
+        alt={fionas[0].alt}
+      />
       </Container>
     )
   }
