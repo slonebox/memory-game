@@ -5,17 +5,21 @@ import MemoryCard from './components/MemoryCard';
 import fionas from '../src/fionas.json';
 
 class App extends Component {
+  state = {
+    fionas
+  };
 
   //Displays components on the page
   render() {
     return (
       <Container>
       <Jumbotron/>
+      {this.state.fionas.map(fiona =>( 
       <MemoryCard
-        id={fionas[0].id}
-        image={fionas[0].image}
-        alt={fionas[0].alt}
-      />
+        id={fiona.id}
+        image={fiona.image}
+        alt={fiona.alt}
+      /> ))}
       </Container>
     )
   }
