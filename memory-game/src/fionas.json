@@ -38,5 +38,25 @@
         "id": 8,
         "image": "https://github.com/slonebox/memory-game/blob/master/memory-game/public/images/fiona8.PNG?raw=true",
         "alt": "Submerged Fiona"
+    },
+    {
+        "id": 9,
+        "image": "https://github.com/slonebox/memory-game/blob/master/memory-game/public/images/fiona9.png?raw=true",
+        "alt": "Shy Fiona"
+    },
+    {
+        "id": 10,
+        "image": "https://github.com/slonebox/memory-game/blob/master/memory-game/public/images/fiona10.png?raw=true",
+        "alt": "Extended Chomp Fiona"
+    },
+    {
+        "id": 11,
+        "image": "https://github.com/slonebox/memory-game/blob/master/memory-game/public/images/fiona11.png?raw=true",
+        "alt": "Splashing Fiona"
+    },
+    {
+        "id": 12,
+        "image": "https://github.com/slonebox/memory-game/blob/master/memory-game/public/images/fiona12.png?raw=true",
+        "alt": "Baby Pool Fiona"
     }
 ]
